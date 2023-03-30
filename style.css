@@ -218,7 +218,7 @@ input {
   padding: 2% 10%;
 }
 .prewiev {
-  background-image: url(/image/bedrooms.png);
+  background-image: url(./image/bedrooms.png);
   background-repeat: no-repeat;
 
   background-clip: border-box;
@@ -585,5 +585,5 @@ footer strong {
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: -110px;
-  background-image: url(/image/Rectangle\ 176.png);
+  background-image: url(./image/Rectangle\ 176.png);
 }
